@@ -11,5 +11,6 @@
 - show your all task in list
 - you can edit or delete any task
 - seperate completed task section
+- show completed todo task date and time
   
 Live Demo - https://todotaskproject07.netlify.app/
